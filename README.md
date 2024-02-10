@@ -1,1 +1,0 @@
-# sdgsenegal.github.io
