@@ -11,7 +11,7 @@
           "description": "",
           "keywords": "",
           "href": "/1-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-1",
@@ -19,7 +19,7 @@
           "description": "",
           "keywords": "",
           "href": "/1-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-2",
@@ -27,7 +27,7 @@
           "description": "",
           "keywords": "",
           "href": "/1-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-3-1",
@@ -123,7 +123,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
@@ -131,7 +131,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-1",
@@ -139,7 +139,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-2",
@@ -147,7 +147,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
@@ -155,6 +155,14 @@
           "description": "",
           "keywords": "",
           "href": "/2-2-3/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-2-4",
+          "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)",
+          "description": "",
+          "keywords": "",
+          "href": "/2-2-4/",
           "status": "notstarted"
         },
         {
@@ -179,7 +187,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-5-1",
@@ -203,7 +211,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-a-2",
@@ -211,7 +219,7 @@
           "description": "",
           "keywords": "",
           "href": "/2-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-b-1",
@@ -435,7 +443,7 @@
           "description": "",
           "keywords": "",
           "href": "/3-b-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-c-1",
@@ -451,7 +459,7 @@
           "description": "",
           "keywords": "",
           "href": "/3-d-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-d-2",
@@ -459,7 +467,7 @@
           "description": "",
           "keywords": "",
           "href": "/3-d-2/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -475,7 +483,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-1-2",
@@ -483,7 +491,15 @@
           "description": "",
           "keywords": "",
           "href": "/4-1-2/",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "4-1-2-2",
+          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-2-2/",
+          "status": "complete"
         },
         {
           "id": "4-2-1",
@@ -491,7 +507,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-2-2",
@@ -499,7 +515,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-3-1",
@@ -507,7 +523,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-4-1",
@@ -523,7 +539,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1",
@@ -531,7 +547,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-7-1",
@@ -547,7 +563,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-b-1",
@@ -563,7 +579,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -587,7 +603,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-2",
@@ -595,7 +611,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-3-1",
@@ -603,7 +619,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-3-2",
@@ -611,7 +627,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-4-1",
@@ -627,7 +643,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-5-2",
@@ -635,7 +651,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-6-1",
@@ -643,7 +659,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-6-2",
@@ -659,7 +675,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-a-2",
@@ -675,7 +691,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-c-1",
@@ -699,7 +715,7 @@
           "description": "",
           "keywords": "",
           "href": "/6-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-2-1",
@@ -707,7 +723,7 @@
           "description": "",
           "keywords": "",
           "href": "/6-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-3-1",
@@ -795,7 +811,7 @@
           "description": "",
           "keywords": "",
           "href": "/7-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-1-2",
@@ -811,7 +827,7 @@
           "description": "",
           "keywords": "",
           "href": "/7-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-3-1",
@@ -819,7 +835,7 @@
           "description": "",
           "keywords": "",
           "href": "/7-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-a-1",
@@ -835,7 +851,7 @@
           "description": "",
           "keywords": "",
           "href": "/7-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -851,7 +867,7 @@
           "description": "",
           "keywords": "",
           "href": "/8-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-2-1",
@@ -859,7 +875,7 @@
           "description": "",
           "keywords": "",
           "href": "/8-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-3-1",
@@ -867,7 +883,7 @@
           "description": "",
           "keywords": "",
           "href": "/8-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-4-1",
@@ -899,7 +915,7 @@
           "description": "",
           "keywords": "",
           "href": "/8-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-6-1",
@@ -942,12 +958,20 @@
           "status": "notstarted"
         },
         {
+          "id": "8-9-2",
+          "title": "Employed persons in the tourism industries",
+          "description": "",
+          "keywords": "",
+          "href": "/8-9-2/",
+          "status": "complete"
+        },
+        {
           "id": "8-10-1",
           "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
           "description": "",
           "keywords": "",
           "href": "/8-10-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-10-2",
@@ -955,7 +979,7 @@
           "description": "",
           "keywords": "",
           "href": "/8-10-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-a-1",
@@ -995,7 +1019,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-1",
@@ -1003,7 +1027,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-2",
@@ -1011,7 +1035,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-3-1",
@@ -1075,7 +1099,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -1091,7 +1115,7 @@
           "description": "",
           "keywords": "",
           "href": "/10-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-2-1",
@@ -1115,7 +1139,7 @@
           "description": "",
           "keywords": "",
           "href": "/10-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-4-2",
@@ -1123,7 +1147,7 @@
           "description": "",
           "keywords": "",
           "href": "/10-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-5-1",
@@ -1131,7 +1155,7 @@
           "description": "",
           "keywords": "",
           "href": "/10-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-6-1",
@@ -1211,7 +1235,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-2-1",
@@ -1235,7 +1259,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-4-1",
@@ -1243,7 +1267,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-5-1",
@@ -1255,7 +1279,7 @@
         },
         {
           "id": "11-5-2",
-          "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",
+          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
           "description": "",
           "keywords": "",
           "href": "/11-5-2/",
@@ -1275,7 +1299,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-2",
@@ -1283,7 +1307,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-6-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-7-1",
@@ -1291,7 +1315,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-7-2",
@@ -1399,7 +1423,7 @@
         },
         {
           "id": "12-7-1",
-          "title": "Degree of sustainable public procurement policies and action plan implementation",
+          "title": "Number of countries implementing sustainable public procurement policies and action plans",
           "description": "",
           "keywords": "",
           "href": "/12-7-1/",
@@ -1471,7 +1495,7 @@
         },
         {
           "id": "13-2-1",
-          "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
+          "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",
           "description": "",
           "keywords": "",
           "href": "/13-2-1/",
@@ -1503,7 +1527,7 @@
         },
         {
           "id": "13-b-1",
-          "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
+          "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",
           "description": "",
           "keywords": "",
           "href": "/13-b-1/",
@@ -1555,7 +1579,7 @@
           "description": "",
           "keywords": "",
           "href": "/14-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "14-6-1",
@@ -1571,7 +1595,7 @@
           "description": "",
           "keywords": "",
           "href": "/14-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "14-a-1",
@@ -1611,7 +1635,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-1-2",
@@ -1619,7 +1643,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-2-1",
@@ -1647,7 +1671,7 @@
         },
         {
           "id": "15-4-2",
-          "title": "Mountain Green Cover Index",
+          "title": "Mountain Green Cover Index and proportion of degraded mountain land",
           "description": "",
           "keywords": "",
           "href": "/15-4-2/",
@@ -1659,7 +1683,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-6-1",
@@ -1751,7 +1775,7 @@
         },
         {
           "id": "16-1-4",
-          "title": "Proportion of population that feel safe walking alone around the area they live",
+          "title": "Proportion of population that feel safe walking alone around the area they live after dark",
           "description": "",
           "keywords": "",
           "href": "/16-1-4/",
@@ -1771,7 +1795,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-2-3",
@@ -1787,7 +1811,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-3-2",
@@ -1795,7 +1819,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-3-3",
@@ -1883,7 +1907,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-9-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-10-1",
@@ -1931,7 +1955,7 @@
           "description": "",
           "keywords": "",
           "href": "/17-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-1-2",
@@ -1951,7 +1975,7 @@
         },
         {
           "id": "17-3-1",
-          "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income",
+          "title": "Additional financial resources mobilized for developing countries from multiple sources",
           "description": "",
           "keywords": "",
           "href": "/17-3-1/",

@@ -2,8 +2,8 @@
 <html lang="en" class="no-js">
     <head>
         <meta charset="utf-8">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-        <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=Promise%2CArray.prototype.forEach%2CString.prototype.includes%2CURLSearchParams%2CCustomEvent%2CArray.prototype.includes%2CArray.prototype.filter%2CArray.prototype.some%2CArray.prototype.find%2CArray.prototype.reduce%2CObject.assign%2CArray.isArray%2CObject.values%2CObject.entries%2CArray.from%2CSet%2CArray.prototype.findIndex%2Cfetch"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha384-bPV3mA2eo3edoq56VzcPBmG1N1QVUfjYMxVIJPPzyFJyFZ8GFfN7Npt06Zr23qts" crossorigin="anonymous"></script>
+        <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=Promise%2CString.prototype.includes%2CCustomEvent%2CArray.prototype.includes%2CArray.prototype.find%2CObject.assign%2CObject.values%2CObject.entries%2CArray.from%2CSet%2CArray.prototype.findIndex%2Cfetch"></script>
 <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-canvas-to-blob/3.15.0/js/canvas-to-blob.min.js"></script>
 
         <script>
@@ -43,6 +43,8 @@ var opensdg = {
   ignoredDisaggregations: null,
 
   language: 'en',
+
+  language_numbers: 'en',
 
   mapColors: {
     "default": [
@@ -139,9 +141,8 @@ var translations = {
         
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20240819151654">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20250829100131">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -209,7 +210,7 @@ layout-page
 </li><li class="nav-item ">
     <a class="nav-link" href="/faq">FAQ</a>
 </li><li class="nav-item active">
-    <a class="nav-link" href="/about">About</a>
+    <a class="nav-link" href="/about">About us</a>
 </li></ul>
     
                 </div>
@@ -241,8 +242,8 @@ layout-page
       English
     </button>
     <ul class="dropdown-menu"><li>
-            <a class="dropdown-item" href="/es/about/">
-              Español
+            <a class="dropdown-item" href="/fr/about/">
+              Français
             </a>
           </li></ul>
   </div>
@@ -252,13 +253,13 @@ layout-page
 
                     <span class="no-js-language-toggle"><div class="language-toggle-container d-flex">
     <i class="fa fa-globe language-toggle-globe-links"></i>
-    <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-es list-inline-item">
-            <a class="language-toggle-link" href="/es/about/">
-                Español
+    <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-fr list-inline-item">
+            <a class="language-toggle-link" href="/fr/about/">
+                Français
             </a>
         </li></ul>
 </div></span><a title="Enable high contrast" aria-label="Enable high contrast"
-    data-contrast-switch-to="" href="javascript:void(0)" data-on="click"
+    data-contrast-switch-to="" role="button" href="javascript:void(0)" data-on="click"
 data-event-category="Accessibility"
 data-event-action="Change contrast setting"
 data-event-label="high"
@@ -290,35 +291,34 @@ data-event-label="high"
     <h2 id="table-of-contents">Table of contents</h2>
 <ul>
   <li><a href="#about-this-site">About this site</a></li>
-  <li><a href="#need-more-info">Need more info?</a></li>
   <li><a href="#feedback">Feedback</a></li>
 </ul>
 
 <p>The <a href="http://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals</a> (SDGs) are a universal call to action to:</p>
-
 <ul>
-  <li>
-    <p>end poverty</p>
-  </li>
-  <li>
-    <p>protect the planet</p>
-  </li>
-  <li>
-    <p>improve the lives and prospects of everyone, everywhere</p>
-  </li>
+  <li>end poverty</li>
+  <li>protect the planet</li>
+  <li>improve the lives and prospects of everyone, everywhere</li>
 </ul>
 
 <p>The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">2030 Agenda for Sustainable Development</a>.</p>
 
 <h2 id="about-this-site">About this site</h2>
-<p>This site is based on the open source <a href="https://open-sdg.org/">Open SDG</a> platform.</p>
+<p>The Senegal SDG-SDMX platform is a national tool for monitoring and disseminating data related to the Sustainable Development Goals (SDGs). It was established by the National Agency of Statistics and Demography (ANSD), in collaboration with sectoral ministries and technical and financial partners (UNSD, AfDB, and ONS-UK).</p>
 
-<p>Other countries or organisations wishing to reuse the Open SDG reporting platform are welcome to do so for free. The <a href="https://open-sdg.readthedocs.io/en/latest/quick-start/">Open SDG Quick Start Guide</a> gives technical instructions on the quickest way to get a copy of the Open SDG platform up and running.</p>
-
-<p>If you have comments, feedback, or want to get involved with the Open SDG community please email <a href="mailto:opensdg@outlook.com">opensdg@outlook.com</a> or contact the <a href="https://github.com/open-sdg/open-sdg">Open SDG GitHub</a>.</p>
-
-<h2 id="need-more-info">Need more info?</h2>
-<p>Answers to some specific questions about this website are included on our <a href="/faq/">frequently asked questions</a> page.</p>
+<p>Its main objective is to make statistical data on the SDGs accessible, reliable, and comparable in order to:</p>
+<ul>
+  <li>Monitor Senegal’s progress towards achieving the 2030 Agenda goals ;</li>
+  <li>Strengthen transparency and accountability to citizens and partners ;</li>
+  <li>Facilitate evidence-based decision-making ;</li>
+  <li>Harmonize national statistics with international standards through the SDMX (Statistical Data and Metadata eXchange) framework.</li>
+  <li>The platform enables users to:</li>
+  <li>Explore Senegal’s SDG indicators ;</li>
+  <li>Visualize interactive charts, maps, and tables ;</li>
+  <li>Download data in different formats (Excel, CSV, SDMX);</li>
+  <li>Access metadata to better understand indicator definitions and methodologies.</li>
+  <li>By making data more accessible and interoperable, the platform contributes to strengthening the National Statistical System (NSS) and to enhancing Senegal’s integration into regional and international SDG monitoring initiatives.</li>
+</ul>
 
 <h2 id="feedback">Feedback</h2>
 <p>To provide feedback on our SDG data please <a href="/contact-us">contact us</a></p>
@@ -345,12 +345,12 @@ data-event-label="high"
                         </li>
                         <li>
                             
-                            <a href="https://twitter.com/MyTwitterAccount" target="_blank">Twitter</a>
+                            <a href="https://x.com/statsenegal" target="_blank">Twitter</a>
                             
                         </li>
                         <li>
                             
-                            <a href="https://facebook.com/MyFacebookAccount" target="_blank">Facebook</a>
+                            <a href="https://www.facebook.com/ANSD.Senegal/?locale=fr_FR" target="_blank">Facebook</a>
                             
                         </li>
                         <li>
@@ -369,17 +369,16 @@ data-event-label="high"
 
 <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
-<script src="//cdn.datatables.net/fixedcolumns/3.2.3/js/dataTables.fixedColumns.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js" integrity="sha384-ficRBwtap/VLzILv81vIvgp30PoJYnlCm96tPpNYHXAf+h9SIThOZxxIzRUzbpAh" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js" integrity="sha384-jIAE3P7Re8BgMkT0XOtfQ6lzZgbDw/02WeRMJvXK3WMHBNynEx5xofqia1OHuGh0" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js" integrity="sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js" integrity="sha384-kdgUFNEbslNOEAQ/zFH9wjDORAbvN0KUYOpfJIJYPdjtzLXkZsMJAXU9HPpi5B5c" crossorigin="anonymous"></script>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha384-eEX5kO4tdQpY+eTjDbZNPlMm4QhsK+kosSZtkzp+uZk0L5g0lSzmWXWHzKDoOzA7" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js" integrity="sha384-3qyhlVVDXXiWhzgKIoL/aw+uaXN5kyAFE0Jv2LGoV+nnQnum4ebt1QAtRbjnz9pL" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js" integrity="sha384-KQ8aykg/lc6595wSrMplFVs4kRS66x+EdkX7EQsJ2Pe6FX7l3tMqyD1Am0c2dKBG" crossorigin="anonymous"></script>
 
 
 
@@ -410,12 +409,12 @@ ga('send', 'pageview');
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/assets/js/sdg.js?v=20240819151654'></script>
+<script src='/assets/js/sdg.js?v=20250829100131'></script>
 
 
     
     
-    <script src="/assets/js/custom.js?v=20240819151654"></script><script>
+    <script src="/assets/js/custom.js?v=20250829100131"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
